@@ -1,0 +1,19 @@
+.display {
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 110px;
+    padding-right: 110px;
+    justify-content: space-between;
+}
+
+.navigation a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #FFFFFF;
+}
+
+.navigation a:hover {
+    color: orange;
+}
